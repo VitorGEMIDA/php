@@ -10,6 +10,10 @@
  <!-- Código do float -->
  <?php
 
+echo 6;
+echo " | Valores inteiros. <br>";
+
+
 $a = "testando pro exerc";
 $b = 22.9;
 
@@ -20,6 +24,8 @@ if(is_float($a)) {
 if(is_float($b)) {
   echo "É o resultado 2! <br>";
 }
+
+
 
 // Código do string
 
