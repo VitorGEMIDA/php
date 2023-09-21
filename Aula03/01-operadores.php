@@ -443,7 +443,7 @@
 
 
                             $a = 10;
-                            $b  = 5;
+                            $b = 5;
 
                             if( $a < $b) { //true
                             echo " $a <  $b é Menor";
@@ -467,7 +467,7 @@
 
 
                             $a = 10;
-                            $b  = 5;
+                            $b = 5;
 
                             if( $a > $b) { //true
                             echo " $a > $b é Maior";
