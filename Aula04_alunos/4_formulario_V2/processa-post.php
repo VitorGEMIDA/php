@@ -9,7 +9,7 @@
 <body>
     <h1>Processamento de dados usando POST</h1>
     <hr>
-    <!-- Método mais seguro (Não mostra as informações na URL) -->
+    
  
 
 
